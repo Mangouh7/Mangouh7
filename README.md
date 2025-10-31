@@ -1,15 +1,15 @@
-# Hi there!
+# Hi there! 👋
 
-I'm Aascharya from Nepal. I'm a high school student exploring coding, web development, and small projects. I enjoy experimenting and learning new things every day.
+I'm Aascharya from Nepal. I'm a high school student exploring coding, web development, and small projects. I enjoy experimenting and learning new things every day.  
 
 ---
 
 ## About Me
 - Currently exploring: Small web apps and coding experiments  
-- Learning: JavaScript, C programming, and algorithms  
+- Learning: JavaScript, C programming, and algorithms 
 - Looking to collaborate on: Fun coding projects and challenges  
 - Ask me about: Web development, GitHub, and tech ideas  
-- Fun fact: I enjoy solving puzzles and building small projects
+- Fun fact: I enjoy solving puzzles and building small projects 
 
 ---
 
@@ -24,8 +24,8 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 ---
 
 ## Projects
-- [Simple Weather App](https://mangouh7.github.io/-simple-Weather-app/) – Check the weather in any city (live demo)  
-- [YouTube Videos Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Guess the most viewed part of YouTube videos (live demo)
+- [Simple Weather App](https://mangouh7.github.io/-simple-Weather-app/) – Check the weather in any city ☀️🌧️  
+- [YouTube Videos Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Guess the most viewed part of YouTube videos 🎬
 
 ---
 
@@ -33,15 +33,14 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 - Improve JavaScript and web development skills  
 - Learn more advanced C programming and algorithms  
 - Build small interactive projects for practice  
-- Explore Python and beginner-friendly frameworks
+- Explore Python and beginner-friendly frameworks 🐍
 
 ---
 
 ## Experience
 
-<pre style="color: #00FF00; background-color: #000000; padding: 10px; border-radius: 5px;">
-ERROR 404: EXPERIENCE NOT FOUND
-</pre>
+# <span style="color:#00FF00;">ERROR 404</span>
+### <span style="color:#00FF00;">Experience Not Found</span>
 
 ---
 
