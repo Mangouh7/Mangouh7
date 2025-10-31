@@ -5,9 +5,9 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 ---
 
 ## About Me
-- Currently exploring: Small web apps and coding experiments  
-- Learning: JavaScript, C programming, and algorithms 
-- Looking to collaborate on: Fun coding projects and challenges  
+- Currently exploring: Small web apps and coding experiments   
+- Learning: JavaScript, C programming, and algorithms   
+- Looking to collaborate on: Fun coding projects and challenges   
 - Ask me about: Web development, GitHub, and tech ideas  
 - Fun fact: I enjoy solving puzzles and building small projects 
 
@@ -25,7 +25,7 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 
 ## Projects
 - [Simple Weather App](https://mangouh7.github.io/-simple-Weather-app/) – Check the weather in any city ☀️🌧️  
-- [YouTube Videos Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Guess the most viewed part of YouTube videos 🎬
+- [YouTube Video Views Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Try to guess the view count of popular YouTube videos 🎬
 
 ---
 
@@ -39,8 +39,7 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 
 ## Experience
 
-# <span style="color:#00FF00;">ERROR 404</span>
-### <span style="color:#00FF00;">Experience Not Found</span>
+# <span style="color:#00FF00;">ERROR 404: EXPERIENCE NOT FOUND</span>
 
 ---
 
