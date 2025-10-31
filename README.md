@@ -1,19 +1,19 @@
+# Hi there!
+
+I'm Aascharya from Nepal. I'm a high school student exploring coding, web development, and small projects. I enjoy experimenting and learning new things every day.
+
 ---
 
-Hi there! I'm Aascharya from Nepal. I'm a high school student exploring coding, web development, and small projects. I love experimenting and learning new things every day.  
-
----
-
-### 🌱 About Me
+## About Me
 - Currently exploring: Small web apps and coding experiments  
 - Learning: JavaScript, C programming, and algorithms  
 - Looking to collaborate on: Fun coding projects and challenges  
 - Ask me about: Web development, GitHub, and tech ideas  
-- Fun fact: I enjoy solving puzzles and building small projects  
+- Fun fact: I enjoy solving puzzles and building small projects
 
 ---
 
-### 🛠️ Skills & Tools
+## Skills & Tools
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,32 +23,34 @@ Hi there! I'm Aascharya from Nepal. I'm a high school student exploring coding, 
 
 ---
 
-### 📚 Learning Goals
+## Projects
+- [Simple Weather App](https://mangouh7.github.io/-simple-Weather-app/) – Check the weather in any city (live demo)  
+- [YouTube Videos Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Guess the most viewed part of YouTube videos (live demo)
+
+---
+
+## Learning Goals
 - Improve JavaScript and web development skills  
 - Learn more advanced C programming and algorithms  
 - Build small interactive projects for practice  
-- Explore Python and beginner-friendly frameworks  
+- Explore Python and beginner-friendly frameworks
 
 ---
 
-### 💻 Projects
-- [Mini Weather App](https://github.com/YOUR_USERNAME/weather-app) – A simple web app to check weather  
-- [C Calculator](https://github.com/YOUR_USERNAME/c-calculator) – Basic calculator program in C  
-- [Fun Web Game](https://github.com/YOUR_USERNAME/fun-game) – A small interactive web game  
+## Experience
+
+<pre style="color: #00FF00; background-color: #000000; padding: 10px; border-radius: 5px;">
+ERROR 404: EXPERIENCE NOT FOUND
+</pre>
 
 ---
 
-### 🏢 Experience
-- Currently: **Error 404 – Experience Not Found**  
-
----
-
-### 📫 Connect with Me
+## Connect
 <p>
   <a href="https://github.com/YOUR_USERNAME" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/aascharya-paudel-584913316" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
