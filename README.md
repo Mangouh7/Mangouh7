@@ -26,7 +26,7 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 ## Projects
 - [Simple Weather App](https://mangouh7.github.io/-simple-Weather-app/) – Check the weather in any city ☀️🌧️  
 - [YouTube Video Views Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Try to guess the view count of popular YouTube videos 🎬
-- [YouTube Video Views Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Try to guess the view count of popular YouTube videos 🎬
+- [Pokhara pollution reporter app](https://pokharapollutionreporter.netlify.app/) – Report pollution
 
 ---
 
