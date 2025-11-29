@@ -24,7 +24,7 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 ---
 
 ## Projects
-- [Interact club of Tops fishtail](https://ictopsfishtail.netlify.app/) – IC Tops fishtail officail website 
+- [Interact club of Tops fishtail](https://ictopsfishtail.netlify.app/) – IC Tops fishtail official website 
 - [Simple Weather App](https://mangouh7.github.io/-simple-Weather-app/) – Check the weather in any city ☀️🌧️  
 - [YouTube Video Views Guesser Game](https://yt-vids-views-guesser.vercel.app/) – Try to guess the view count of popular YouTube videos 🎬
 - [Pokhara pollution reporter app](https://safahawa.netlify.app/) – Report pollution
