@@ -57,5 +57,5 @@ I'm Aascharya from Nepal. I'm a high school student exploring coding, web develo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c4ff,100:ff00c4&height=150&section=footer&text=Thanks+for+visiting!&fontSize=32&fontColor=ffffff" />
 </p>
-![snake gif](https://github.com/Mangouh7/Mangouh7/blob/output/github-contribution-grid-snake.svg)
+
 
