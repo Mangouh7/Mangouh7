@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 I'm Aascharya from Nepal. I'm a high school student exploring coding, web development, and small projects. I enjoy experimenting and learning new things every day.  
+![Profile Views](https://profile-counter.glitch.me/Mangouh7/count.svg)
 
 ---
 
